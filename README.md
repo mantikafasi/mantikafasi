@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: life is not fun
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantikafasi&theme=dark)]
+
