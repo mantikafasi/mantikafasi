@@ -4,13 +4,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on roblox free video downloader
+- 🔭 I’m currently working on something
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
-- ⚡ Fun fact: life is not fun
+- ⚡ Fun fact: ' '
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantikafasi&theme=dark)]
