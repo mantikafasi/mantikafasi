@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+i manti on my ka til i fasi
+
 I am too lazy to edit this lets predent it looks good.
 
 **mantikafasi/mantikafasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
