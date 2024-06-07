@@ -1,3 +1,8 @@
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/Vendicated/Vencord/assets/67705577/ca775680-f208-4c1f-90a5-679ebf764f1b');]{x0000}$}
+```
+
+
 ### Hi there 👋
 I am too lazy to edit this lets predent it looks good.
 
