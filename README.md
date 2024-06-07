@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw;pointer-events: none; opacity: 0.9; background: url('https://github.com/Vendicated/Vencord/assets/67705577/ca775680-f208-4c1f-90a5-679ebf764f1b');background-size:100% 100%;]{x0000}$}
+\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: -100px; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/mathjax/MathJax/assets/67705577/868db50e-5d2d-45fa-ab87-1960e697ac53');background-size:100% 100%;]{x0000}$}
 ```
 
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ' '
 -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantikafasi&theme=dark&langs_count=10)]
 
