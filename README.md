@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; width: 100vw; opacity: 0.7; background-size:cover; background: url('https://github.com/Vendicated/Vencord/assets/67705577/7a5e06f3-338f-46de-ab25-685191204f8e');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.7; background-size:cover; background: url('https://github.com/Vendicated/Vencord/assets/67705577/ca775680-f208-4c1f-90a5-679ebf764f1b');]{x0000}$}
 ```
 
 
