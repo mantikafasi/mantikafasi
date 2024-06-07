@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: -100px; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/mantikafasi/mantikafasi/assets/67705577/1c40b7c2-e559-4592-bab7-c76028dfad8a');background-size:100% 100%;]{x0000}$}
+\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: 0; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/mantikafasi/mantikafasi/assets/67705577/d7fd1be7-c654-49e9-8611-4e4c745acfdc');background-size:100% 100%;]{x0000}$}
 ```
 
 ### Hi there 👋
