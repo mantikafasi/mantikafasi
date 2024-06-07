@@ -2,6 +2,12 @@
 \ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: -100px; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/mathjax/MathJax/assets/67705577/868db50e-5d2d-45fa-ab87-1960e697ac53');background-size:100% 100%;]{x0000}$}
 ```
 
+```math
+\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: -100px; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/Vendicated/Vencord/assets/67705577/139d36a8-ce7e-4063-bab0-5272d9e1f054
+');background-size:100% 100%;]{x0000}$}
+```
+
+
 
 ### Hi there 👋
 I am too lazy to edit this lets predent it looks good.
