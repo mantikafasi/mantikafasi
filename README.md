@@ -1,7 +1,6 @@
 ```math
-\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: -100px; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/mathjax/MathJax/assets/67705577/868db50e-5d2d-45fa-ab87-1960e697ac53');background-size:100% 100%;]{x0000}$}
+\ce{$\unicode[comic-sans; z-index: 99999; position: fixed; top: 0; left: -100px; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/mantikafasi/mantikafasi/assets/67705577/1c40b7c2-e559-4592-bab7-c76028dfad8a');background-size:100% 100%;]{x0000}$}
 ```
-
 
 ### Hi there 👋
 I am too lazy to edit this lets predent it looks good.
